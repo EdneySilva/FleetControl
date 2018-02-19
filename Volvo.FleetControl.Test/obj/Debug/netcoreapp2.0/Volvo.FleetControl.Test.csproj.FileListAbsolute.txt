@@ -1,0 +1,16 @@
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Test\bin\Debug\netcoreapp2.0\Volvo.FleetControl.Test.deps.json
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Test\bin\Debug\netcoreapp2.0\Volvo.FleetControl.Test.runtimeconfig.json
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Test\bin\Debug\netcoreapp2.0\Volvo.FleetControl.Test.runtimeconfig.dev.json
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Test\bin\Debug\netcoreapp2.0\Volvo.FleetControl.Test.dll
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Test\bin\Debug\netcoreapp2.0\Volvo.FleetControl.Test.pdb
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Test\bin\Debug\netcoreapp2.0\Volvo.FleetControl.Core.dll
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Test\bin\Debug\netcoreapp2.0\Volvo.FleetControl.Core.pdb
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Test\obj\Debug\netcoreapp2.0\Volvo.FleetControl.Test.csprojResolveAssemblyReference.cache
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Test\obj\Debug\netcoreapp2.0\Volvo.FleetControl.Test.csproj.CoreCompileInputs.cache
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Test\obj\Debug\netcoreapp2.0\Volvo.FleetControl.Test.AssemblyInfoInputs.cache
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Test\obj\Debug\netcoreapp2.0\Volvo.FleetControl.Test.AssemblyInfo.cs
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Test\obj\Debug\netcoreapp2.0\Volvo.FleetControl.Test.dll
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Test\obj\Debug\netcoreapp2.0\Volvo.FleetControl.Test.pdb
