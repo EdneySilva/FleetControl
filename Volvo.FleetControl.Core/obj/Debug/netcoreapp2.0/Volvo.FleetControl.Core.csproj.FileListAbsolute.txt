@@ -1,0 +1,9 @@
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Core\bin\Debug\netcoreapp2.0\Volvo.FleetControl.Core.deps.json
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Core\bin\Debug\netcoreapp2.0\Volvo.FleetControl.Core.dll
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Core\bin\Debug\netcoreapp2.0\Volvo.FleetControl.Core.pdb
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Core\obj\Debug\netcoreapp2.0\Volvo.FleetControl.Core.csprojResolveAssemblyReference.cache
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Core\obj\Debug\netcoreapp2.0\Volvo.FleetControl.Core.csproj.CoreCompileInputs.cache
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Core\obj\Debug\netcoreapp2.0\Volvo.FleetControl.Core.AssemblyInfoInputs.cache
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Core\obj\Debug\netcoreapp2.0\Volvo.FleetControl.Core.AssemblyInfo.cs
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Core\obj\Debug\netcoreapp2.0\Volvo.FleetControl.Core.dll
+C:\Users\edney\Downloads\Volvo\Volvo\Volvo.FleetControl.Core\obj\Debug\netcoreapp2.0\Volvo.FleetControl.Core.pdb
